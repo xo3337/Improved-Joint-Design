@@ -23,7 +23,7 @@ This repository contains an improved version of a mechanical joint designed usin
 
 ## 📷 Preview
 
-| Screenshot 1 | Screenshot 2 |
+| 3d  view| Screenshot 2 |
 |--------------|--------------|
 | <img width="340" src="https://github.com/user-attachments/assets/2b9b947a-7ccc-4023-bf11-e8e235cabd79" alt="Preview 1" /> | <img width="230" src="https://github.com/user-attachments/assets/549d85eb-6fd2-4469-83ec-5d7310981fca" alt="Preview 2" /> |
 
