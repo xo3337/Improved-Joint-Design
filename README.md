@@ -22,12 +22,14 @@ This repository contains an improved version of a mechanical joint designed usin
 - Design is ready for testing and feedback.
 
 ## 📷 Preview
-<img width="685" height="644" alt="image" src="https://github.com/user-attachments/assets/2b9b947a-7ccc-4023-bf11-e8e235cabd79" />
-<img width="465" height="607" alt="image" src="https://github.com/user-attachments/assets/549d85eb-6fd2-4469-83ec-5d7310981fca" />
-<img width="361" height="630" alt="image" src="https://github.com/user-attachments/assets/e27c9ff1-07b7-4fd0-9ad8-fa412da42e1c" />
-<img width="445" height="453" alt="image" src="https://github.com/user-attachments/assets/524dfde3-4c1f-4e9c-8e05-2692ff6b4ae2" />
-<img width="661" height="644" alt="image" src="https://github.com/user-attachments/assets/909f3a5c-89bd-4ccb-bdb5-c06aa4ff7037" />
 
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| <img width="340" src="https://github.com/user-attachments/assets/2b9b947a-7ccc-4023-bf11-e8e235cabd79" alt="Preview 1" /> | <img width="230" src="https://github.com/user-attachments/assets/549d85eb-6fd2-4469-83ec-5d7310981fca" alt="Preview 2" /> |
+
+| Screenshot 3 | Screenshot 4 | Screenshot 5 |
+|--------------|--------------|--------------|
+| <img width="200" src="https://github.com/user-attachments/assets/e27c9ff1-07b7-4fd0-9ad8-fa412da42e1c" alt="Preview 3" /> | <img width="220" src="https://github.com/user-attachments/assets/524dfde3-4c1f-4e9c-8e05-2692ff6b4ae2" alt="Preview 4" /> | <img width="340" src="https://github.com/user-attachments/assets/909f3a5c-89bd-4ccb-bdb5-c06aa4ff7037" alt="Preview 5" /> |
 
 
 
